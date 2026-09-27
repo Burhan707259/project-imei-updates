@@ -1,0 +1,4 @@
+version=2.1.0.4
+url=https://www.mediafire.com/file/51o207w436h66rc/PROJECT_IMEI+v2.1.0.4.zip/file
+sha256=7d4e1a923b564c089f216a8b5d0c3e77
+notes=Fixed the TAC upload and added the update checker.
