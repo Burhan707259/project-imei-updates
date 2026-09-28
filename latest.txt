@@ -1,1 +1,4 @@
-
+version=2.1.0.4
+url=https://github.com/Burhan707259/project-imei-updates/releases/download/v2.1.0.5/PROJECT_IMEI.zip
+sha256=2a5a04a4cbc9464d98c63b29bf82dd81993fe2c88f541049a330ad005cac5581
+notes=Fixed the TAC upload and added the update checker.
