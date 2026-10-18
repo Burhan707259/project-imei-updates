@@ -1,4 +1,4 @@
-version=2.1.0.6
-url=https://github.com/Burhan707259/project-imei-updates/releases/download/v2.1.0.6/PROJECT_IMEI.zip
-sha256=db048c8d4be22ca01ff2377cf978a7a52e6609db5b62f791e26151441a6cf514
-notes=Fixed the TAC upload and added the update checker.
+version=2.1.0.7
+url=https://github.com/Burhan707259/project-imei-updates/releases/download/v2.1.0.7/PROJECT_IMEI.zip
+sha256=sha256:fd468129a368b3c674df8ef5f6af1b8bcf14edeb61be8a2ab1189e888399af6e
+notes=Update Galaxy Background
