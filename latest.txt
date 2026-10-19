@@ -1,4 +1,4 @@
-version=2.1.0.7
-url=https://github.com/Burhan707259/project-imei-updates/releases/download/v2.1.0.7/PROJECT_IMEI.zip
-sha256=sha256:fd468129a368b3c674df8ef5f6af1b8bcf14edeb61be8a2ab1189e888399af6e
-notes=Update Galaxy Background
+version=2.1.0.8
+url=https://github.com/Burhan707259/project-imei-updates/releases/download/v2.1.0.8/PROJECT_IMEI.zip
+sha256=c7854bc7c2297ea53571da57935e084a4d7ab700fad51511d87512002cd748ba
+notes=Sidebar Button Name Changed Pixel IMEI to Generate IMEI
